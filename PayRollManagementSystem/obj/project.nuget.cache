@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "woURyIPl2aloN53adgFkeeHnMYqjR+Zv9nKMGK0RfN35t7dy3atiFkowmuIIw2sopLMQiXt3qNoNzXzBX060Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\PAYROLL\\PayRollManagementSystem\\PayRollManagementSystem\\PayRollManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\consoletables\\2.5.0\\consoletables.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
